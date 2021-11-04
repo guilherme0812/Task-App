@@ -9,4 +9,4 @@ Aplicativo de lembretes de tarefas
 3º - Na pasta onde o App esteja alocado, abra o seu terminal (CMD), e execute: > "expo start". Apoós isso irá abrir uma nova aba em seu navegador padrão.
 4º - Com o App do Expo escaneie o QR Code exibido na nova abaerta em seu navegador.
 
-Agora é só testar o App.
+Agora é só testar o App. :)

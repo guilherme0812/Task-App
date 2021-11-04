@@ -96,7 +96,7 @@ export default function App() {
             />
 
             <TouchableOpacity style={styles.handleAdd} onPress={ handleAdd } >
-              <Text style={styles.handleAddText}>Cadastrar</Text>
+              <Text style={styles.handleAddText}>Cadastre</Text>
             </TouchableOpacity>
           </Animatable.View>
 
